@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1023039965093",
+    "firebase_url": "https://busticketmachine.firebaseio.com",
+    "project_id": "busticketmachine",
+    "storage_bucket": "busticketmachine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023039965093:android:87386c82d2c536b1",
+        "android_client_info": {
+          "package_name": "com.example.administrator.busticketmachine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023039965093-7s1h634te0h6n5m3ir0mkamcifrvnbpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.administrator.busticketmachine",
+            "certificate_hash": "fcf930f18e04b935bf0b749a0927f32e09c55d79"
+          }
+        },
+        {
+          "client_id": "1023039965093-p1hfad2teel1q1q947r17l2h0hd1ljf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBJDqF-YyXKcEbFxB_m93tYCBqZCrslvo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023039965093-p1hfad2teel1q1q947r17l2h0hd1ljf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
